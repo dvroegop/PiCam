@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dvroe\\source\\repos\\recognizer\\recognizer\\recognizer.csproj": {}
+    "C:\\repos\\PiCam\\PiCam\\recognizer\\recognizer\\recognizer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dvroe\\source\\repos\\recognizer\\recognizer\\recognizer.csproj": {
+    "C:\\repos\\PiCam\\PiCam\\recognizer\\recognizer\\recognizer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dvroe\\source\\repos\\recognizer\\recognizer\\recognizer.csproj",
+        "projectUniqueName": "C:\\repos\\PiCam\\PiCam\\recognizer\\recognizer\\recognizer.csproj",
         "projectName": "recognizer",
-        "projectPath": "C:\\Users\\dvroe\\source\\repos\\recognizer\\recognizer\\recognizer.csproj",
+        "projectPath": "C:\\repos\\PiCam\\PiCam\\recognizer\\recognizer\\recognizer.csproj",
         "packagesPath": "C:\\Users\\dvroe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dvroe\\source\\repos\\recognizer\\recognizer\\obj\\",
+        "outputPath": "C:\\repos\\PiCam\\PiCam\\recognizer\\recognizer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
@@ -49,10 +49,6 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
-            "MMALSharp": {
-              "target": "Package",
-              "version": "[0.5.0, )"
-            },
             "Microsoft.NETCore.Platforms": {
               "suppressParent": "All",
               "target": "Package",
