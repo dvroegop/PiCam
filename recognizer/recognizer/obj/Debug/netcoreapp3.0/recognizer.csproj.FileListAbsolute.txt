@@ -1,0 +1,5 @@
+C:\Users\dvroe\source\repos\recognizer\recognizer\bin\Debug\netcoreapp3.0\recognizer.exe
+C:\Users\dvroe\source\repos\recognizer\recognizer\obj\Debug\netcoreapp3.0\recognizer.csprojAssemblyReference.cache
+C:\Users\dvroe\source\repos\recognizer\recognizer\obj\Debug\netcoreapp3.0\recognizer.csproj.CoreCompileInputs.cache
+C:\Users\dvroe\source\repos\recognizer\recognizer\obj\Debug\netcoreapp3.0\recognizer.AssemblyInfoInputs.cache
+C:\Users\dvroe\source\repos\recognizer\recognizer\obj\Debug\netcoreapp3.0\recognizer.AssemblyInfo.cs
