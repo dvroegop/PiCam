@@ -1,0 +1,11 @@
+C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.csproj.CoreCompileInputs.cache
+C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.AssemblyInfoInputs.cache
+C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.AssemblyInfo.cs
+C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\recognizer.deps.json
+C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\recognizer.runtimeconfig.json
+C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\recognizer.runtimeconfig.dev.json
+C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\recognizer.dll
+C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\recognizer.pdb
+C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.dll
+C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.pdb
+C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.csprojAssemblyReference.cache
