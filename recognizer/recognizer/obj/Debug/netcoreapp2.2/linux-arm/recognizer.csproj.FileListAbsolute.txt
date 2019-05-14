@@ -12,3 +12,17 @@ C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netco
 C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\linux-arm\recognizer.AssemblyInfo.cs
 C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\linux-arm\recognizer.dll
 C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\linux-arm\recognizer.pdb
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\linux-arm\libhostpolicy.so
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\linux-arm\libhostfxr.so
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\linux-arm\recognizer
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\linux-arm\recognizer.deps.json
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\linux-arm\recognizer.runtimeconfig.json
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\linux-arm\recognizer.runtimeconfig.dev.json
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\linux-arm\recognizer.dll
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\linux-arm\recognizer.pdb
+C:\repos\PiCam\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\linux-arm\recognizer.csprojAssemblyReference.cache
+C:\repos\PiCam\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\linux-arm\recognizer.csproj.CoreCompileInputs.cache
+C:\repos\PiCam\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\linux-arm\recognizer.AssemblyInfoInputs.cache
+C:\repos\PiCam\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\linux-arm\recognizer.AssemblyInfo.cs
+C:\repos\PiCam\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\linux-arm\recognizer.dll
+C:\repos\PiCam\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\linux-arm\recognizer.pdb

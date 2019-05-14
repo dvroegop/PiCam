@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "139aa06448ea518d72ed01fec4834800e85693a4"
+    "signature": "169bbc4f6aaeaf0eee0aa5f528b6d662d4bad01d"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,12 +10,25 @@
         "dependencies": {
           "CamHelpers": "1.0.0",
           "MMALSharp": "0.5.0",
-          "SenseHatNet": "0.0.5"
+          "SenseHatNet": "0.0.5",
+          "help": "1.0.0"
         },
         "runtime": {
           "pictureTaker.dll": {}
         }
       },
+      "help/1.0.0": {
+        "dependencies": {
+          "SampleDependency": "1.0.0"
+        },
+        "runtime": {
+          "lib/net40/System.Linq.Dynamic.dll": {
+            "assemblyVersion": "1.0.5840.25917",
+            "fileVersion": "1.0.5840.25917"
+          }
+        }
+      },
+      "jQuery/2.1.1": {},
       "Microsoft.CSharp/4.3.0": {
         "dependencies": {
           "System.Collections": "4.3.0",
@@ -98,6 +111,11 @@
             "assemblyVersion": "4.0.0.0",
             "fileVersion": "4.5.6.7874"
           }
+        }
+      },
+      "SampleDependency/1.0.0": {
+        "dependencies": {
+          "jQuery": "2.1.1"
         }
       },
       "SenseHatNet/0.0.5": {
@@ -495,6 +513,20 @@
       "serviceable": false,
       "sha512": ""
     },
+    "help/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+WZkw3QG/M/lF57RSJFxUymegULP5DKwMKiVSHcxjUR2L5FSsaeGq4pcs3L7EXpOCaKFkuEmyNqaYw2fOjZE6Q==",
+      "path": "help/1.0.0",
+      "hashPath": "help.1.0.0.nupkg.sha512"
+    },
+    "jQuery/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/cy0NGAGBx0W6XLqrnehQAKeJhfnZLDdPnBvlNLq/k4mraD1a7rbHBYzV5PYBaz9t5wh+VrGhPUbPztvnFAOrQ==",
+      "path": "jquery/2.1.1",
+      "hashPath": "jquery.2.1.1.nupkg.sha512"
+    },
     "Microsoft.CSharp/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -536,6 +568,13 @@
       "sha512": "sha512-FZIdeH92NTu6ePm+QbLT9pyd5vY9B+GYX8S2bh6ZxJC+XSTZDhZ6EHWxDzyBIEjtIb+nSBJfIgdMuQNQEYMqbQ==",
       "path": "nlog/4.5.6",
       "hashPath": "nlog.4.5.6.nupkg.sha512"
+    },
+    "SampleDependency/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rkrKnTI2KT/L+BaaB6/xZbDiqyQ702TxYp5adqgC/GYU7KBufnNArz/5KNetThpOeXmVEMg0VlFU+9/cKz0L4w==",
+      "path": "sampledependency/1.0.0",
+      "hashPath": "sampledependency.1.0.0.nupkg.sha512"
     },
     "SenseHatNet/0.0.5": {
       "type": "package",

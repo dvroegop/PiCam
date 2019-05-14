@@ -23,7 +23,12 @@ namespace cuporglass
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string fileName = "testimage";
+
+            string imageFile = Path.Combine("/home/pi/images/", $"{fileName}.jpg");
+            
+            Console.WriteLine(imageFile);
+            return;
 
             var trainingClient = new CustomVisionTrainingClient()
                 {ApiKey = TrainingKey, Endpoint = TrainingEndPointShort};
@@ -34,7 +39,7 @@ namespace cuporglass
             };
 
             var projectId = Guid.Parse(_projectId);
-            MakePrediction(predictionClient, projectId, "SpilbergDemo");
+            MakePrediction(predictionClient, projectId, "Iteration2");
         }
 
         public static void MakePrediction(CustomVisionPredictionClient endpoint, Guid projectId, string publishedModelName)

@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "recognizer.sln",
+    "projects": [
+      "recognizer\\recognizer.csproj"
+    ]
+  }
+}

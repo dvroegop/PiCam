@@ -6,3 +6,4 @@ C:\repos\PiCam\PiCam\recognizer\CamHelpers\obj\Debug\netcoreapp2.2\CamHelpers.As
 C:\repos\PiCam\PiCam\recognizer\CamHelpers\obj\Debug\netcoreapp2.2\CamHelpers.AssemblyInfo.cs
 C:\repos\PiCam\PiCam\recognizer\CamHelpers\obj\Debug\netcoreapp2.2\CamHelpers.dll
 C:\repos\PiCam\PiCam\recognizer\CamHelpers\obj\Debug\netcoreapp2.2\CamHelpers.pdb
+C:\repos\PiCam\PiCam\recognizer\CamHelpers\obj\Debug\netcoreapp2.2\CamHelpers.csprojAssemblyReference.cache
