@@ -12,3 +12,6 @@ C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\linux-arm\p
 C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\linux-arm\pictureTaker.AssemblyInfo.cs
 C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\linux-arm\pictureTaker.dll
 C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\linux-arm\pictureTaker.pdb
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\linux-arm\CamHelpers.dll
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\linux-arm\CamHelpers.pdb
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\linux-arm\pictureTaker.csproj.CopyComplete

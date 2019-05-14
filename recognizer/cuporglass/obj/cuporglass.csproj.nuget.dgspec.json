@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\repos\\PiCam\\PiCam\\recognizer\\cuporglass\\cuporglass.csproj": {}
+  },
+  "projects": {
+    "C:\\repos\\PiCam\\PiCam\\recognizer\\cuporglass\\cuporglass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\repos\\PiCam\\PiCam\\recognizer\\cuporglass\\cuporglass.csproj",
+        "projectName": "cuporglass",
+        "projectPath": "C:\\repos\\PiCam\\PiCam\\recognizer\\cuporglass\\cuporglass.csproj",
+        "packagesPath": "C:\\Users\\dvroe\\.nuget\\packages\\",
+        "outputPath": "C:\\repos\\PiCam\\PiCam\\recognizer\\cuporglass\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dvroe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Training": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.NETCore.Platforms": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3.19128.7, )",
+              "autoReferenced": true
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27504-2, )",
+              "autoReferenced": true
+            },
+            "runtime.win-x64.Microsoft.NETCore.DotNetAppHost": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27503-5, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

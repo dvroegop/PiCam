@@ -9,3 +9,14 @@ C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\bin\Debug\netco
 C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.dll
 C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.pdb
 C:\Users\dvroe\Source\Repos\dvroegop\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.csprojAssemblyReference.cache
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\recognizer.deps.json
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\recognizer.runtimeconfig.json
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\recognizer.runtimeconfig.dev.json
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\recognizer.dll
+C:\repos\PiCam\PiCam\recognizer\recognizer\bin\Debug\netcoreapp2.2\recognizer.pdb
+C:\repos\PiCam\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.csprojAssemblyReference.cache
+C:\repos\PiCam\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.csproj.CoreCompileInputs.cache
+C:\repos\PiCam\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.AssemblyInfoInputs.cache
+C:\repos\PiCam\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.AssemblyInfo.cs
+C:\repos\PiCam\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.dll
+C:\repos\PiCam\PiCam\recognizer\recognizer\obj\Debug\netcoreapp2.2\recognizer.pdb

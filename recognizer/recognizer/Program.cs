@@ -50,6 +50,7 @@ namespace recognizer
 
             using (var imgCaptureHandler = new ImageStreamCaptureHandler("/home/pi/images/", "jpg"))
             {
+                
                 await _mmalCamera.TakePicture(imgCaptureHandler, MMALEncoding.JPEG, MMALEncoding.I420);
                 var fileName = imgCaptureHandler.GetFilename();
 

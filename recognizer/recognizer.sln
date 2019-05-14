@@ -5,7 +5,11 @@ VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "recognizer", "recognizer\recognizer.csproj", "{2A8135D5-60E8-42A6-9B77-9C37E2C4C6D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pictureTaker", "pictureTaker\pictureTaker.csproj", "{F06D7CCF-6656-42A8-8226-964E9317B097}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pictureTaker", "pictureTaker\pictureTaker.csproj", "{F06D7CCF-6656-42A8-8226-964E9317B097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamHelpers", "CamHelpers\CamHelpers.csproj", "{789B5FC9-67CB-4372-A37B-E569A6869534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cuporglass", "cuporglass\cuporglass.csproj", "{10B42D30-4786-4361-B94A-B27D6174A5D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{F06D7CCF-6656-42A8-8226-964E9317B097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F06D7CCF-6656-42A8-8226-964E9317B097}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F06D7CCF-6656-42A8-8226-964E9317B097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{789B5FC9-67CB-4372-A37B-E569A6869534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789B5FC9-67CB-4372-A37B-E569A6869534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789B5FC9-67CB-4372-A37B-E569A6869534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789B5FC9-67CB-4372-A37B-E569A6869534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B42D30-4786-4361-B94A-B27D6174A5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B42D30-4786-4361-B94A-B27D6174A5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B42D30-4786-4361-B94A-B27D6174A5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B42D30-4786-4361-B94A-B27D6174A5D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

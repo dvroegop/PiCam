@@ -1,14 +1,21 @@
 ﻿using System;
+using System.IO;
+using System.Net;
 using System.Reactive.Linq;
+using CamHelpers;
 using Sense.Stick;
 
 namespace pictureTaker
 {
     class Program
     {
+        private static ImageProcessor _processor;
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            _processor = new ImageProcessor();
 
             IObservable<JoystickEvent> d = Joystick.Events.DistinctUntilChanged(p => new JoystickData() {Key = p.Key, State = p.State});
             var observer= new JoystickObserver();
@@ -19,11 +26,15 @@ namespace pictureTaker
             Console.WriteLine("Waiting for the joystick");
             Console.ReadLine();
             Console.WriteLine("Bye!");
+            _processor.Dispose();
         }
 
-        private static void ObserverOnOnClick(object sender, EventArgs e)
+        private static async void ObserverOnOnClick(object sender, EventArgs e)
         {
             Console.WriteLine("Click!!");
+            var fileName = await _processor.TakePicture();
+            Console.WriteLine($"Captured {fileName}");
+
         }
     }
 

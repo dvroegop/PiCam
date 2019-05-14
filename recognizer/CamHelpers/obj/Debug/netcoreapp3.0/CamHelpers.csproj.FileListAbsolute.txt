@@ -1,0 +1,6 @@
+C:\repos\PiCam\PiCam\recognizer\CamHelpers\bin\Debug\netcoreapp3.0\CamHelpers.deps.json
+C:\repos\PiCam\PiCam\recognizer\CamHelpers\bin\Debug\netcoreapp3.0\CamHelpers.dll
+C:\repos\PiCam\PiCam\recognizer\CamHelpers\obj\Debug\netcoreapp3.0\CamHelpers.csprojAssemblyReference.cache
+C:\repos\PiCam\PiCam\recognizer\CamHelpers\obj\Debug\netcoreapp3.0\CamHelpers.csproj.CoreCompileInputs.cache
+C:\repos\PiCam\PiCam\recognizer\CamHelpers\obj\Debug\netcoreapp3.0\CamHelpers.AssemblyInfoInputs.cache
+C:\repos\PiCam\PiCam\recognizer\CamHelpers\obj\Debug\netcoreapp3.0\CamHelpers.AssemblyInfo.cs

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v2.2": {
       "pictureTaker/1.0.0": {
         "dependencies": {
+          "CamHelpers": "1.0.0",
           "MMALSharp": "0.5.0",
           "SenseHatNet": "0.0.5"
         },
@@ -477,6 +478,14 @@
           "System.Runtime": "4.3.0",
           "System.Runtime.Handles": "4.3.0"
         }
+      },
+      "CamHelpers/1.0.0": {
+        "dependencies": {
+          "MMALSharp": "0.5.0"
+        },
+        "runtime": {
+          "CamHelpers.dll": {}
+        }
       }
     }
   },
@@ -849,6 +858,11 @@
       "sha512": "sha512-k/+g4b7vjdd4aix83sTgC9VG6oXYKAktSfNIJUNGxPEj7ryEOfzHHhfnmsZvjxawwcD9HyWXKCXmPjX8U4zeSw==",
       "path": "system.threading.threadpool/4.3.0",
       "hashPath": "system.threading.threadpool.4.3.0.nupkg.sha512"
+    },
+    "CamHelpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

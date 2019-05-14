@@ -915,6 +915,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Threading.ThreadPool.dll": {}
         }
+      },
+      "CamHelpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MMALSharp": "0.5.0"
+        },
+        "compile": {
+          "bin/placeholder/CamHelpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CamHelpers.dll": {}
+        }
       }
     },
     ".NETCoreApp,Version=v2.2/linux-arm": {
@@ -2024,6 +2037,19 @@
         },
         "runtime": {
           "lib/netstandard1.3/System.Threading.ThreadPool.dll": {}
+        }
+      },
+      "CamHelpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MMALSharp": "0.5.0"
+        },
+        "compile": {
+          "bin/placeholder/CamHelpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CamHelpers.dll": {}
         }
       }
     }
@@ -5185,10 +5211,16 @@
         "system.threading.threadpool.4.3.0.nupkg.sha512",
         "system.threading.threadpool.nuspec"
       ]
+    },
+    "CamHelpers/1.0.0": {
+      "type": "project",
+      "path": "../CamHelpers/CamHelpers.csproj",
+      "msbuildProject": "../CamHelpers/CamHelpers.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "CamHelpers >= 1.0.0",
       "MMALSharp >= 0.5.0",
       "Microsoft.NETCore.App >= 2.2.3",
       "SenseHatNet >= 0.0.5"
@@ -5232,7 +5264,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\repos\\PiCam\\PiCam\\recognizer\\CamHelpers\\CamHelpers.csproj": {
+              "projectPath": "C:\\repos\\PiCam\\PiCam\\recognizer\\CamHelpers\\CamHelpers.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

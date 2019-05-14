@@ -2,6 +2,21 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+      "help/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "SampleDependency": "1.0.0"
+        },
+        "compile": {
+          "lib/net40/System.Linq.Dynamic.dll": {}
+        },
+        "runtime": {
+          "lib/net40/System.Linq.Dynamic.dll": {}
+        }
+      },
+      "jQuery/2.1.1": {
+        "type": "package"
+      },
       "Microsoft.CSharp/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -303,6 +318,12 @@
         },
         "runtime": {
           "lib/netstandard2.0/NLog.dll": {}
+        }
+      },
+      "SampleDependency/1.0.0": {
+        "type": "package",
+        "dependencies": {
+          "jQuery": "2.1.1"
         }
       },
       "SenseHatNet/0.0.5": {
@@ -915,10 +936,56 @@
         "runtime": {
           "lib/netstandard1.3/System.Threading.ThreadPool.dll": {}
         }
+      },
+      "CamHelpers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MMALSharp": "0.5.0"
+        },
+        "compile": {
+          "bin/placeholder/CamHelpers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CamHelpers.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "help/1.0.0": {
+      "sha512": "+WZkw3QG/M/lF57RSJFxUymegULP5DKwMKiVSHcxjUR2L5FSsaeGq4pcs3L7EXpOCaKFkuEmyNqaYw2fOjZE6Q==",
+      "type": "package",
+      "path": "help/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "NuGet.exe",
+        "help.1.0.0.nupkg.sha512",
+        "help.nuspec",
+        "lib/net40/System.Linq.Dynamic.dll"
+      ]
+    },
+    "jQuery/2.1.1": {
+      "sha512": "/cy0NGAGBx0W6XLqrnehQAKeJhfnZLDdPnBvlNLq/k4mraD1a7rbHBYzV5PYBaz9t5wh+VrGhPUbPztvnFAOrQ==",
+      "type": "package",
+      "path": "jquery/2.1.1",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Content/Scripts/jquery-2.1.1-vsdoc.js",
+        "Content/Scripts/jquery-2.1.1.js",
+        "Content/Scripts/jquery-2.1.1.min.js",
+        "Content/Scripts/jquery-2.1.1.min.map",
+        "Tools/common.ps1",
+        "Tools/install.ps1",
+        "Tools/jquery-2.1.1.intellisense.js",
+        "Tools/uninstall.ps1",
+        "jquery.2.1.1.nupkg.sha512",
+        "jquery.nuspec"
+      ]
+    },
     "Microsoft.CSharp/4.3.0": {
       "sha512": "P+MBhIM0YX+JqROuf7i306ZLJEjQYA9uUyRDE+OqwUI5sh41e2ZbPQV3LfAPh+29cmceE1pUffXsGfR4eMY3KA==",
       "type": "package",
@@ -1542,6 +1609,18 @@
         "lib/xamarinios10/NLog.xml",
         "nlog.4.5.6.nupkg.sha512",
         "nlog.nuspec"
+      ]
+    },
+    "SampleDependency/1.0.0": {
+      "sha512": "rkrKnTI2KT/L+BaaB6/xZbDiqyQ702TxYp5adqgC/GYU7KBufnNArz/5KNetThpOeXmVEMg0VlFU+9/cKz0L4w==",
+      "type": "package",
+      "path": "sampledependency/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/Scripts/nugetexample.js",
+        "sampledependency.1.0.0.nupkg.sha512",
+        "sampledependency.nuspec"
       ]
     },
     "SenseHatNet/0.0.5": {
@@ -3681,13 +3760,20 @@
         "system.threading.threadpool.4.3.0.nupkg.sha512",
         "system.threading.threadpool.nuspec"
       ]
+    },
+    "CamHelpers/1.0.0": {
+      "type": "project",
+      "path": "../CamHelpers/CamHelpers.csproj",
+      "msbuildProject": "../CamHelpers/CamHelpers.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "CamHelpers >= 1.0.0",
       "MMALSharp >= 0.5.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "SenseHatNet >= 0.0.5"
+      "SenseHatNet >= 0.0.5",
+      "help >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3728,7 +3814,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\repos\\PiCam\\PiCam\\recognizer\\CamHelpers\\CamHelpers.csproj": {
+              "projectPath": "C:\\repos\\PiCam\\PiCam\\recognizer\\CamHelpers\\CamHelpers.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -3753,6 +3843,10 @@
           "SenseHatNet": {
             "target": "Package",
             "version": "[0.0.5, )"
+          },
+          "help": {
+            "target": "Package",
+            "version": "[1.0.0, )"
           }
         },
         "imports": [
@@ -3762,5 +3856,17 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'help 1.0.0' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.2'. This package may not be fully compatible with your project.",
+      "libraryId": "help",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    }
+  ]
 }

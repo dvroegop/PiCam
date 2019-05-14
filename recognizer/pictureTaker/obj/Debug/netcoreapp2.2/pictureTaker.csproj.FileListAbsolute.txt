@@ -8,3 +8,7 @@ C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\pictureTake
 C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\pictureTaker.AssemblyInfo.cs
 C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\pictureTaker.dll
 C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\pictureTaker.pdb
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\CamHelpers.dll
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\CamHelpers.pdb
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\pictureTaker.csprojAssemblyReference.cache
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\pictureTaker.csproj.CopyComplete
