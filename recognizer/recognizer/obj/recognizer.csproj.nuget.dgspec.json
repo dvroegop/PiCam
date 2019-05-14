@@ -49,6 +49,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "MMALSharp": {
+              "target": "Package",
+              "version": "[0.5.0, )"
+            },
             "Microsoft.NETCore.Platforms": {
               "suppressParent": "All",
               "target": "Package",

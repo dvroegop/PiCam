@@ -1,0 +1,10 @@
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\pictureTaker.deps.json
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\pictureTaker.runtimeconfig.json
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\pictureTaker.runtimeconfig.dev.json
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\pictureTaker.dll
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\pictureTaker.pdb
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\pictureTaker.csproj.CoreCompileInputs.cache
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\pictureTaker.AssemblyInfoInputs.cache
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\pictureTaker.AssemblyInfo.cs
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\pictureTaker.dll
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\pictureTaker.pdb

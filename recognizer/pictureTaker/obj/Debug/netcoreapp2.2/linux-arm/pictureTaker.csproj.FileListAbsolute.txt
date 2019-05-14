@@ -1,0 +1,14 @@
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\linux-arm\libhostpolicy.so
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\linux-arm\libhostfxr.so
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\linux-arm\pictureTaker
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\linux-arm\pictureTaker.deps.json
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\linux-arm\pictureTaker.runtimeconfig.json
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\linux-arm\pictureTaker.runtimeconfig.dev.json
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\linux-arm\pictureTaker.dll
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\bin\Debug\netcoreapp2.2\linux-arm\pictureTaker.pdb
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\linux-arm\pictureTaker.csprojAssemblyReference.cache
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\linux-arm\pictureTaker.csproj.CoreCompileInputs.cache
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\linux-arm\pictureTaker.AssemblyInfoInputs.cache
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\linux-arm\pictureTaker.AssemblyInfo.cs
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\linux-arm\pictureTaker.dll
+C:\repos\PiCam\PiCam\recognizer\pictureTaker\obj\Debug\netcoreapp2.2\linux-arm\pictureTaker.pdb
